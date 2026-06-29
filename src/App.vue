@@ -161,7 +161,7 @@ onUnmounted(() => {
         <section class="cover-panel">
           <img
             src="/assets/story-cover.bmp"
-            alt="Sampul seorang wanita yang berjalan pergi dalam keheningan sambil memikul tanggung jawab besar"
+            alt=""Untuk seseorang yang pernah menjadi rumah, dan untuk seseorang yang akhirnya belajar pulang ke dirinya sendiri
           />
           <div class="cover-illustration" aria-hidden="true">
             <span class="moon"></span>
@@ -178,7 +178,7 @@ onUnmounted(() => {
           <div class="cover-copy">
             <span>Vol. 01</span>
             <h1>Last Chapter</h1>
-            <p>Seorang wanita pergi dalam diam, membawa hal-hal yang tidak semua orang sanggup melihat beratnya.</p>
+            <p>Untuk seseorang yang pernah menjadi rumah, dan untuk seseorang yang akhirnya belajar pulang ke dirinya sendiri</p>
           </div>
         </section>
 
