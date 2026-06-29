@@ -161,7 +161,7 @@ onUnmounted(() => {
         <section class="cover-panel">
           <img
             src="/assets/story-cover.bmp"
-            alt=""Untuk seseorang yang pernah menjadi rumah, dan untuk seseorang yang akhirnya belajar pulang ke dirinya sendiri
+            alt="Untuk seseorang yang pernah menjadi rumah, dan untuk seseorang yang akhirnya belajar pulang ke dirinya sendiri"
           />
           <div class="cover-illustration" aria-hidden="true">
             <span class="moon"></span>
